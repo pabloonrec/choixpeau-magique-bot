@@ -31,13 +31,13 @@ HOUSES = {
         "role_id": 1527352587500650637,
         "color": discord.Color.gold(),
         "emoji": "🦡",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/poursouf.png
+        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/poursouf.png"
     },
     "Serpentis": {
         "role_id": 1527352623454486708,
         "color": discord.Color.green(),
         "emoji": "🐍",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/serpentis.png
+        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/serpentis.png"
     }
 }
 
