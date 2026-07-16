@@ -12,29 +12,29 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 # ===== CONFIGURATION =====
 
 WELCOME_CHANNEL_ID = 1235618505059995835
-LOG_CHANNEL_ID = 1527353942021902496
+LOG_CHANNEL_ID = 1527415268983312676
 
 HOUSES = {
     "Grifforia": {
-        "role_id": 1527352433314107482,
+        "role_id": 1526983959009825031,
         "color": discord.Color.red(),
         "emoji": "🦁",
         "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/grifforia.png"
     },
     "Serdaelis": {
-        "role_id": 1465348744441757981,
+        "role_id": 1526984147531333852,
         "color": discord.Color.blue(),
         "emoji": "🦅",
         "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/serdaelis.png"
     },
     "Poursouf": {
-        "role_id": 1527352587500650637,
+        "role_id": 1526984357758238901,
         "color": discord.Color.gold(),
         "emoji": "🦡",
         "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/poursouf.png"
     },
     "Serpentis": {
-        "role_id": 1527352623454486708,
+        "role_id": 1526984414800646336,
         "color": discord.Color.green(),
         "emoji": "🐍",
         "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/serpentis.png"
