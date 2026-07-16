@@ -1,2 +1,3 @@
-# choixpeau-magique-bot
-Bot Discord Choixpeau Magique
+# Assets du Choixpeau Magique
+
+Ce dossier contient les affiches des maisons.
