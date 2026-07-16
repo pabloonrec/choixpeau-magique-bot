@@ -19,7 +19,7 @@ HOUSES = {
         "role_id": 1527352433314107482,
         "color": discord.Color.red(),
         "emoji": "🦁",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/grifforia.png"
+        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/assets/grifforia.png"
     },
     "Serdaelis": {
         "role_id": 1465348744441757981,
