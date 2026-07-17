@@ -25,19 +25,19 @@ HOUSES = {
         "role_id": 1526984147531333852,
         "color": discord.Color.blue(),
         "emoji": "🦅",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/serdaelis.png"
+        "image": "https://github.com/pabloonrec/choixpeau-magique-bot/blob/main/assest/serdaelis.png"
     },
     "Poursouf": {
         "role_id": 1526984357758238901,
         "color": discord.Color.gold(),
         "emoji": "🦡",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/poursouf.png"
+        "image": "https://github.com/pabloonrec/choixpeau-magique-bot/blob/main/assest/poursouf.png"
     },
     "Serpentis": {
         "role_id": 1526984414800646336,
         "color": discord.Color.green(),
         "emoji": "🐍",
-        "image": "https://raw.githubusercontent.com/pabloonrec/choixpeau-magique-bot/main/serpentis.png"
+        "image": "https://github.com/pabloonrec/choixpeau-magique-bot/blob/main/assest/serpentis.png"
     }
 }
 
